@@ -1,42 +1,48 @@
-﻿commit 4f4f67ceeb778d152566ffafb4322c570ec43f25
+commit 51fe492b76df7dae36fa7437a9af0282e0c2e7aa
+Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
+Date:   Fri Sep 25 13:33:17 2026 +0300
+
+    Исправлена кодировка файлов на UTF-8
+
+commit 4f4f67ceeb778d152566ffafb4322c570ec43f25
 Merge: 05d1a2c 0fca477
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:24:33 2026 +0300
 
-    ╨а╨╡╤И╨╡╨╜ ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В ╨▓ test_conflict.txt
+    Решен конфликт в test_conflict.txt
 
 commit 05d1a2cf084aefdd8928ed7fba8d5f5780de4140
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:23:33 2026 +0300
 
-    ╨Ш╨╖╨╝╨╡╨╜╨╡╨╜ test_conflict.txt ╨┤╨╗╤П ╨│╨░╤А╨░╨╜╤В╨╕╨╕ ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╨░
+    Изменен test_conflict.txt для гарантии конфликта
 
 commit e4d0c73aacb19adc27a3fd0c40a3c08727073fbb
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:23:18 2026 +0300
 
-    ╨Ф╨╛╨▒╨░╨▓╨╗╨╡╨╜ ╤Д╨░╨╣╨╗ test_conflict ╨▓ ╨▓╨╡╤В╨║╨╡ master
+    Добавлен файл test_conflict в ветке master
 
 commit 0fca477763ab588f6493e305a9835368a94ff32d
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:22:04 2026 +0300
 
-    ╨Ф╨╛╨▒╨░╨▓╨╗╨╡╨╜ ╤Д╨░╨╣╨╗ test_conflict ╨▓ ╨▓╨╡╤В╨║╨╡ new
+    Добавлен файл test_conflict в ветке new
 
 commit a4b942c410be4782809217543dc1e78320187060
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:21:05 2026 +0300
 
-    ╨Ф╨╛╨▒╨░╨▓╨╗╨╡╨╜ ╤Д╨░╨╣╨╗ log.txt ╤Б ╨╕╤Б╤В╨╛╤А╨╕╨╡╨╣ ╨║╨╛╨╝╨╝╨╕╤В╨╛╨▓
+    Добавлен файл log.txt с историей коммитов
 
 commit 5fdd4e0019d6d0c7bf157876b6a6e637d757475b
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:20:32 2026 +0300
 
-    ╨Ф╨╛╨▒╨░╨▓╨╗╨╡╨╜ ╤Д╨░╨╣╨╗ diff.txt ╨╕ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜ README
+    Добавлен файл diff.txt и изменен README
 
 commit 2f7fcf762e3e0ef4a74507dac2e46811623bfcc2
 Author: Maxim Nalivaiko <maxim228progamer@gmail.com>
 Date:   Fri Sep 25 13:20:15 2026 +0300
 
-    ╨б╨╛╨╖╨┤╨░╨╜ ╤Д╨░╨╣╨╗ README.md
+    Создан файл README.md
